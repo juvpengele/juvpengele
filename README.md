@@ -29,7 +29,7 @@ I lead a community and create content, mostly about Mobile and Web Development i
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juvpengele&theme=radical)](https://github.com/juvpengele/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juvpengele&hide=html,css&theme=radical)](https://github.com/juvpengele/github-readme-stats)
 
 [![Juvenal's GitHub stats](https://github-readme-stats.vercel.app/api?username=juvpengele&theme=radical)](https://github.com/juvpengele/github-readme-stats)
 
