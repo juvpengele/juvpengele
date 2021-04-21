@@ -4,7 +4,7 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCjJPPKkzPI9dUY320Mj9UyQ?label=People%20subscribed%20to%20my%20channel&style=social)](https://www.youtube.com/channel/UCjJPPKkzPI9dUY320Mj9UyQ?sub_confirmation=1) [![Twitter Follow](https://img.shields.io/twitter/follow/juvenalpengele?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=juvenalpengele) [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCjJPPKkzPI9dUY320Mj9UyQ?label=Total%20views%20on%20my%20channel&style=social)](https://www.youtube.com/channel/UCjJPPKkzPI9dUY320Mj9UyQ?sub_confirmation=1)
 
-A Software Engineer working with PHP, Python and Javascript technologies and AWS. I have a strong professional experience with the technologies listed in the **toolbox** below.
+A Fullstack Software Developer working with PHP, Python, Javascript technologies and AWS. I have a strong professional experience with the technologies listed in the **toolbox** below.
 
 I also lead a dev community and create content, mostly about Mobile and Web Development in [Ivoire Dev Academy](https://ivoiredevacademy.com). I am looking forward to reaching and helping more people by sharing my knowledge.
 
