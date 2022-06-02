@@ -2,7 +2,7 @@
 
 ---
 
-A Fullstack Software Developer working with PHP, Python, Javascript technologies and AWS. I have a strong professional experience with the technologies listed in the **toolbox** below.
+A Fullstack Software Developer working with PHP, Python, Javascript technologies (NodeJS, VueJS, React.JS), C# and Microsoft Azure. I have a strong professional experience with the technologies listed in the **toolbox** below.
 
 I also lead a dev community and create content, mostly about Mobile and Web Development in [Ivoire Dev Academy](https://ivoiredevacademy.com). I am looking forward to reaching and helping more people by sharing my knowledge.
 
